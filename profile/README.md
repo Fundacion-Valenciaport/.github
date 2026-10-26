@@ -1,11 +1,9 @@
 # Fundación Valenciaport
-
-### Conocimiento e innovación para la comunidad logístico-portuaria
 <img src="https://www.fundacionvalenciaport.com/wp-content/themes/fundacionvalenciaport_v1/images/quienes-somos-01-v2.jpg"
      alt="Fundación Valenciaport"
-     width="300"
+     width="250"
      align="right" />
-
+### Conocimiento e innovación para la comunidad logístico-portuaria
 [Web institucional](https://www.fundacionvalenciaport.com/)
 <br clear="right" />
 ---
