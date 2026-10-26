@@ -4,7 +4,9 @@
 
 [Web institucional](https://www.fundacionvalenciaport.com/)
 
-![Fundación Valenciaport](https://www.fundacionvalenciaport.com/wp-content/themes/fundacionvalenciaport_v1/images/quienes-somos-01-v2.jpg)
+<p align="center">
+  <img src="https://www.fundacionvalenciaport.com/wp-content/themes/fundacionvalenciaport_v1/images/quienes-somos-01-v2.jpg" alt="Fundación Valenciaport" width="800">
+</p>
 ---
 
 La **Fundación Valenciaport** es el centro de conocimiento e innovación logística de los puertos de Valencia, Sagunto y Gandía. Trabajamos para contribuir al posicionamiento del clúster Valenciaport mediante la innovación, el emprendimiento y la formación.
