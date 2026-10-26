@@ -16,12 +16,11 @@ La **Fundación Valenciaport** es el centro de conocimiento e innovación logís
      
 Impulsamos la transformación de la comunidad logístico-portuaria a través de:
 - **Innovación**: desarrollamos y participamos en proyectos que dan respuesta a los retos del sector marítimo, portuario y logístico.
-<img src="images/Impacto-V2015.png"
-     alt="Fundación Valenciaport"
-     width="500"
-     align="right" /> 
 - **Emprendimiento**: conectamos talento, empresas y tecnología para acelerar soluciones innovadoras para la economía azul.
 - **Formación**: promovemos la capacitación y la profesionalización de los profesionales del clúster logístico-portuario.
+<p align="center">
+  <img src="images/Impacto-V2015.png" alt="Fundación Valenciaport" width="400">
+</p>
 
 ## En GitHub
 
