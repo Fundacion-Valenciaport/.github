@@ -24,9 +24,9 @@ Impulsamos la transformación de la comunidad logístico-portuaria a través de:
 
 ## En GitHub
 
-En esta organización compartimos, cuando corresponde, el software, las herramientas y los resultados técnicos derivados de nuestros proyectos de innovación.
+Esta organización reúne los repositorios tecnológicos de la Fundación Valenciaport y facilita la colaboración entre los equipos que desarrollan sus proyectos de innovación.
 
-Visita nuestros repositorios para conocer las iniciativas disponibles y sus condiciones de uso.
+Utilizamos GitHub para gestionar el desarrollo de soluciones digitales orientadas a los retos del sector marítimo, portuario y logístico, aplicando buenas prácticas de trabajo colaborativo, calidad y mejora continua.
 
 ## Contacto
 
