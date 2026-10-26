@@ -5,7 +5,7 @@
 [Web institucional](https://www.fundacionvalenciaport.com/)
 
 <p align="center">
-  <img src="https://www.fundacionvalenciaport.com/wp-content/themes/fundacionvalenciaport_v1/images/quienes-somos-01-v2.jpg" alt="Fundación Valenciaport" width="800">
+  <img src="https://www.fundacionvalenciaport.com/wp-content/themes/fundacionvalenciaport_v1/images/quienes-somos-01-v2.jpg" alt="Fundación Valenciaport" width="250">
 </p>
 ---
 
