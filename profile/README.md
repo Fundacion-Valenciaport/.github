@@ -15,9 +15,9 @@ La **Fundación Valenciaport** es el centro de conocimiento e innovación logís
 
 ## Qué hacemos
 
-<img src="https://www.fundacionvalenciaport.com/wp-content/uploads/2020/01/fondo_mercado_maritimo.jpg"
+<img src="images/Impacto-V2015.png"
      alt="Fundación Valenciaport"
-     width="250"
+     width="300"
      align="right" />     
 Impulsamos la transformación de la comunidad logístico-portuaria a través de:
 
@@ -27,7 +27,7 @@ Impulsamos la transformación de la comunidad logístico-portuaria a través de:
 
 ## En GitHub
 
-<img src="images/Impacto-V2015.png"
+<img src="https://www.fundacionvalenciaport.com/wp-content/uploads/2020/01/fondo_mercado_maritimo.jpg"
      alt="Fundación Valenciaport"
      width="250"
      align="right" />
