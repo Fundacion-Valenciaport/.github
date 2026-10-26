@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="images/FV_HRZ-V2022.jpg" alt="Fundación Valenciaport" width="800">
+  <img src="images/FV_HRZ-V2022.jpg" alt="Fundación Valenciaport" width="400">
 </p>
 
 ### Conocimiento e innovación para la comunidad logístico-portuaria
