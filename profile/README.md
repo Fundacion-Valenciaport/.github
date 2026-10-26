@@ -1,4 +1,6 @@
-# Fundación Valenciaport
+<p align="center">
+  <img src="images/FV_HRZ-V2022.jpg" alt="Fundación Valenciaport" width="800">
+</p>
 
 ### Conocimiento e innovación para la comunidad logístico-portuaria
 [Web institucional](https://www.fundacionvalenciaport.com/)
