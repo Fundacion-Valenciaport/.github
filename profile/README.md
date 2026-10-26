@@ -19,7 +19,7 @@ Impulsamos la transformación de la comunidad logístico-portuaria a través de:
 - **Emprendimiento**: conectamos talento, empresas y tecnología para acelerar soluciones innovadoras para la economía azul.
 - **Formación**: promovemos la capacitación y la profesionalización de los profesionales del clúster logístico-portuario.
 <p align="center">
-  <img src="images/Impacto-V2015.png" alt="Fundación Valenciaport" width="400">
+  <img src="images/Impacto-V2015.png" alt="Fundación Valenciaport" width="800">
 </p>
 
 ## En GitHub
