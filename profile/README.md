@@ -13,7 +13,7 @@
      width="300"
      align="right" />     
 La **Fundación Valenciaport** es el centro de conocimiento e innovación logística de los puertos de Valencia, Sagunto y Gandía. Trabajamos para contribuir al posicionamiento del clúster Valenciaport mediante la innovación, el emprendimiento y la formación.
-
+<br clear="right" />
 
 ## Qué hacemos
      
